@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Court Counter</string>
+    <string name="text_team_a">TEAM A</string>
+    <string name="text_team_b">TEAM B</string>
+    <string name="text_poin_a">0</string>
+    <string name="text_poin_b">0</string>
+    <string name="btn_3_a">+3 POINTS</string>
+    <string name="btn_2_a">+2 POINTS</string>
+    <string name="btn_free_throw_a">FREE THROW</string>
+    <string name="btn_3_b">+3 POINTS</string>
+    <string name="btn_2_b">+2 POINTS</string>
+    <string name="btn_free_throw_b">FREE THROW</string>
+    <string name="btn_reset">RESET</string>
+    <string name="about">About</string>
+    <string name="nama">Muhammad Dicky Mujantara</string>
+    <string name="nim">6706181088</string>
+    <string name="kelas">D3RPLA-42-03</string>
+</resources>
